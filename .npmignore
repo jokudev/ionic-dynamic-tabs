@@ -1,0 +1,10 @@
+src/
+.angular/
+.github/
+.editorconfig
+.gitignore
+.npmignore
+tsconfig.json
+ng-package.json
+*.tgz
+*.log
